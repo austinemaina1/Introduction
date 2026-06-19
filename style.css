@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 40px;
+    gap: 20px;
+    background-color: rgb(181, 226, 226);
+    align-items: center;
+}
